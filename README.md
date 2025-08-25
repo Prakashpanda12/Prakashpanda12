@@ -1,8 +1,11 @@
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="MasterHead" style="width:100%; height:auto;">
 <h1 align="center">Hey, I'm Prakash Kumar Panda 👋</h1>
 
 <p align="center">
 Building cool stuff with code
 </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ---
 
