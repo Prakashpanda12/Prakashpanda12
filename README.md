@@ -16,7 +16,7 @@
 🛠 Exploring **Node.js**, **AWS**, **PostgreSQL**, and **DevOps**  
 🤝 Open to collaborating on interesting projects  
 💬 Ask me about anything programming-related  
-📫 Reach me at **prakashpanda952@gmail.com**
+📫 Reach me at **prakashpanda951@gmail.com**
 
 
 ---
