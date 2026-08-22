@@ -105,7 +105,7 @@
   <a href="https://twitter.com/_prakash12" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/pr_a_k_a_sh" target="_blank">
+  <a href="https://www.instagram.com/pr_a__k__a_sh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/prakash.panda.547389/" target="_blank">
