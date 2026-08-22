@@ -89,19 +89,19 @@
 ### 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/prakashkumarpanda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="45"/>
+  </a>&nbsp;
   <a href="https://twitter.com/_prakash12" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="45"/>
+  </a>&nbsp;
   <a href="https://www.instagram.com/pr_a__k__a_sh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="45"/>
+  </a>&nbsp;
   <a href="https://www.facebook.com/prakash.panda.547389/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=" alt="Facebook" height="45"/>
+  </a>&nbsp;
   <a href="mailto:prakashpanda951@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="45"/>
   </a>
 </p>
 
