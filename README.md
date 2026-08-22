@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/github.gif" alt="MasterHead" style="width:100%; height:auto;">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="MasterHead" style="width:100%; height:auto;">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Prakash+Kumar+Panda+%F0%9F%91%8B;Fullstack+Developer+%7C+AI+Engineer+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
