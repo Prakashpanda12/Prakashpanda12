@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 A Passionate Fullstack Developer & Aspiring AI Fullstack Engineer From India 🇮🇳</h3>
+  <h3>🚀 Aspiring AI Fullstack Engineer From India 🇮🇳</h3>
   <img align="center" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BsMzJub3VpbGFvaGp0bXhmZnp2bTM4ZzlkbXY4ZGo1d213cHJsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TYuocrjKLFC9tuszs/giphy.gif">
 </div>
 
