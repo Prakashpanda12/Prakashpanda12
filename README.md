@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 A Passionate Fullstack Developer & Aspiring AI Fullstack Engineer From India 🇮🇳</h3>
+  <h3>🚀 Aspiring AI Fullstack Engineer From India 🇮🇳</h3>
   <img align="center" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BsMzJub3VpbGFvaGp0bXhmZnp2bTM4ZzlkbXY4ZGo1d213cHJsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TYuocrjKLFC9tuszs/giphy.gif">
 </div>
 
@@ -105,7 +105,7 @@
   <a href="https://twitter.com/_prakash12" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/pr_a_k_a_sh" target="_blank">
+  <a href="https://www.instagram.com/pr_a__k__a_sh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/prakash.panda.547389/" target="_blank">
