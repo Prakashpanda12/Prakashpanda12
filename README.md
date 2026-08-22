@@ -39,17 +39,24 @@
   </a>
 </p>
 
+#### 📱 Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,androidstudio,apple,expo&theme=dark" alt="Mobile Skills"/>
+  </a>
+</p>
+
 #### ⚙️ Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,mongodb,postgres&theme=dark" alt="Backend Skills"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,mongodb,postgres,redis&theme=dark" alt="Backend Skills"/>
   </a>
 </p>
 
 #### ☁️ DevOps & Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github&theme=dark" alt="DevOps Skills"/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,cloudflare&theme=dark" alt="DevOps Skills"/>
   </a>
 </p>
 
@@ -81,9 +88,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prakashpanda12&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakashpanda12&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Prakashpanda12&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
