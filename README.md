@@ -98,7 +98,7 @@
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="45"/>
   </a>&nbsp;
   <a href="https://www.facebook.com/prakash.panda.547389/" target="_blank">
-   
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="45"/>
   </a>&nbsp;
   <a href="mailto:prakashpanda951@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="45"/>
