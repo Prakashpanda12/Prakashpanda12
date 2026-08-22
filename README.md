@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Prakash Kumar Panda 👋</h1>
 
 <div align="center" >
-<h3 align="center">A Passionate Fullstack Developer From India </h3>
+<h3 align="center">A Passionate Fullstack Developer & Aspiring AI Fullstack Engineer From India 🇮🇳</h3>
 <img align="center" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BsMzJub3VpbGFvaGp0bXhmZnp2bTM4ZzlkbXY4ZGo1d213cHJsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TYuocrjKLFC9tuszs/giphy.gif">
 </div>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -14,6 +14,8 @@
 ✅ Previously built **2 mobile applications** and **3 websites**  
 🔥 Currently working as a **Software Developer**  
 🛠 Exploring **Node.js**, **AWS**, **PostgreSQL**, and **DevOps**  
+🤖 Proficient with **Claude**, **Codex**, and **GitHub Copilot** — I ship fast with AI-assisted development  
+🚀 **Aspiring AI Fullstack Engineer** — building smarter, faster, better  
 🤝 Open to collaborating on interesting projects  
 💬 Ask me about anything programming-related  
 📫 Reach me at **prakashpanda951@gmail.com**
@@ -54,8 +56,13 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakashpanda12&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashpanda12&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prakashpanda12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prakashpanda12&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prakashpanda12&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
