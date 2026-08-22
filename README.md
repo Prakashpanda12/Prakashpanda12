@@ -81,7 +81,9 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prakashpanda12&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prakashpanda12&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakashpanda12&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
